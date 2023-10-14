@@ -1,0 +1,14 @@
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.exe
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.deps.json
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.runtimeconfig.json
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.dll
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\bin\Debug\net7.0\BethanysPieShopHRM.pdb
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.AssemblyInfoInputs.cache
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.AssemblyInfo.cs
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.csproj.CoreCompileInputs.cache
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.dll
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\refint\BethanysPieShopHRM.dll
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.pdb
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\BethanysPieShopHRM.genruntimeconfig.cache
+C:\Users\anton.balashov\PetProjects\BethanysPieShopHRM\obj\Debug\net7.0\ref\BethanysPieShopHRM.dll
